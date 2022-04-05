@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Artur Mucha</h1>
+<h1 align="center">Hi 👋, I'm Artur Mucha 🦄</h1>
 <h3 align="center">A passionate JavaScript developer from Katowice</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artmuc&label=Profile%20views&color=0e75b6&style=flat" alt="artmuc" /> </p>
