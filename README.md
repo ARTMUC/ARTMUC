@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Artur Mucha 🦄</h1>
 <h3 align="center">A passionate, wannabe JavaScript developer from Katowice</h3>
-<p align="left">For last couple years I was working in construction industry mainly as a 3D BIM Modeler 👷.</p>
-<p align="left">I've started coding to help myself in my work. I've chosen JS due to it's ability to run everywhere we have a browser.</p>
 <br>
-<p align="left">Since then I've fallen in love with programming ❤️❤️❤️ and I'm studying to become a fullstack JS developer! 🚀🚀🚀 :)</p>
+<p align="center">For last couple years I was working in construction industry mainly as a 3D BIM Modeler 👷.</p>
+<p align="center">I've started coding to help myself in my work. I've chosen JS due to it's ability to run everywhere we have a browser.</p>
 <br>
-<p align="left">I prefer learning thru pratice. That's why I focus mainly on creating my own Pet Projects 🐹.</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=artmuc&label=Profile%20views&color=0e75b6&style=flat" alt="artmuc" /> </p>
+<p align="center">Since then I've fallen in love with programming ❤️❤️❤️ and I'm studying to become a fullstack JS developer! 🚀🚀🚀 :)</p>
+<p align="center">I prefer learning thru pratice. That's why I focus mainly on creating my own Pet Projects 🐹.</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=artmuc&label=Profile%20views&color=0e75b6&style=flat" alt="artmuc" /> </p>
 
 - 🔭 I’m currently working on [Parcel-Nerd](https://github.com/ARTMUC/parcel-nerd)
 
 - 🌱 I’m currently learning **React and Nest.js**
+
+- 📗 I’m currently reading [Mostly adequate guide to functional programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
