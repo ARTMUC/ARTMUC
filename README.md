@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Artur Mucha 🦄</h1>
-<h3 align="center">A passionate, wannabe JavaScript developer from Katowice</h3>
+<h1 align="center">Hi 👋, I'm Artur 🦄</h1>
+<h3 align="center">A passionate, wannabe JavaScript developer</h3>
 <br>
 <p align="center">For last couple years I was working in construction industry mainly as a 3D BIM Modeler 👷.</p>
 <p align="center">I've started coding to help myself in my work. I've chosen JS due to it's ability to run everywhere we have a browser.</p>
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Parcel-Nerd](https://github.com/ARTMUC/parcel-nerd) && [Parcel-Nerd-FrontEnd](https://github.com/ARTMUC/parcel-nerd-frontend)
 
-- 🌱 I’m currently learning **React and Nest.js**
+- 🌱 I’m currently learning **React & Nest.js**
 
 - 📗 I’m currently reading [Mostly adequate guide to functional programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
