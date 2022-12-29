@@ -8,9 +8,9 @@
 <p align="center">I prefer learning thru pratice. That's why I focus mainly on creating my own Pet Projects 🐹.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=artmuc&label=Profile%20views&color=0e75b6&style=flat" alt="artmuc" /> </p>
 
-- 🔭 I’m currently working on [Parcel-Nerd](https://github.com/ARTMUC/parcel-nerd) && [Parcel-Nerd-FrontEnd](https://github.com/ARTMUC/parcel-nerd-frontend)
+- 🔭 I’m currently working on [Parcel-Nerd-Mini](https://github.com/ARTMUC/parcel-nerd-mini)
 
-- 🌱 I’m currently learning **React & Nest.js**
+- 🌱 I’m currently learning **Angular**
 
 - 📗 I’m currently reading [Mostly adequate guide to functional programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
